@@ -10,7 +10,7 @@ Welcome to our lab! We are a passionate team of researchers dedicated to **optoe
 <img src="images/people/diana-dulic.png" width="150px" style="border-radius: 100px;">
 
 🏛 **Affiliation:** [Your Institution/Lab Name]  
-📧 **Email:** [diana.dulic@example.com](mailto:diana.dulic@example.com)  
+📧 **Email:** [diana.dulic@gmail.com ](mailto:diana.dulic@gmail.com )  
 🌐 **Website:** [ResearchGate/Google Scholar/University Profile]  
 
 ---
@@ -30,7 +30,7 @@ Welcome to our lab! We are a passionate team of researchers dedicated to **optoe
 <img src="images/people/diego-sanz.jpg" width="150px" style="border-radius: 100px;">  
 
 🏛 **Affiliation:** [Your Institution/Lab Name]  
-📧 **Email:** [diego.sanz@example.com](mailto:diego.sanz@example.com)  
+📧 **Email:** [diego.sanz@ug.uchile.cl](mailto:diego.sanz@ug.uchile.cl)  
 🌐 **Google Scholar:** [Diego Sanz](#)  
 
 ---
@@ -39,7 +39,7 @@ Welcome to our lab! We are a passionate team of researchers dedicated to **optoe
 <img src="images/people/guillermo-aburto.jpg" width="150px" style="border-radius: 100px;">  
 
 🏛 **Affiliation:** [Your Institution/Lab Name]  
-📧 **Email:** [guillermo.aburto@example.com](mailto:guillermo.aburto@example.com)  
+📧 **Email:** [guillermo.aburto@ug.uchile.cl](mailto:guillermo.aburto@ug.uchile.cl)  
 🌐 **Google Scholar:** [Guillermo Aburto](#)  
 
 ---
@@ -48,7 +48,7 @@ Welcome to our lab! We are a passionate team of researchers dedicated to **optoe
 <img src="images/people/incogni.png" width="150px" style="border-radius: 100px;">  
 
 🏛 **Affiliation:** Universität Augsburg, Institute for Physics, Germany  
-📧 **Email:** [benjamin.briceño@example.com](mailto:benjamin.briceño@example.com)  
+📧 **Email:** [benjaminbriceno@ug.uchile.cl](mailto:benjaminbriceno@ug.uchile.cl)  
 🌐 **Google Scholar:** [Benjamín Briceño](#)  
 
 ---
@@ -57,7 +57,7 @@ Welcome to our lab! We are a passionate team of researchers dedicated to **optoe
 <img src="images/people/joaquin-lopez.png" width="150px" style="border-radius: 100px;">  
 
 🏛 **Affiliation:** [Your Institution/Lab Name]  
-📧 **Email:** [joaquin.lopez@example.com](mailto:joaquin.lopez@example.com)  
+📧 **Email:** [joaquin.mph7@gmail.com ](mailto:joaquin.mph7@gmail.com )  
 🌐 **Google Scholar:** [Joaquín López](#)  
 
 ---
