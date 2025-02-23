@@ -24,4 +24,28 @@
          <loc>https://mydomain.org/mysite/docs/software.html</loc>
          <lastmod>2025-02-23</lastmod>
     </url>
+    <url>
+         <loc>https://mydomain.org/mysite/hardware/clicker_repo/index.html</loc>
+         <lastmod>2025-02-23</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/hardware/temp_sensor_v1_repo/index.html</loc>
+         <lastmod>2025-02-23</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/software/laser_setup_repo/index.html</loc>
+         <lastmod>2025-02-23</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/software/laser_setup_repo/docs/Short%20protocol.html</loc>
+         <lastmod>2025-02-23</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/software/laser_setup_repo/docs/led_calibration.html</loc>
+         <lastmod>2025-02-23</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/software/laser_setup_repo/docs/led_protocol.html</loc>
+         <lastmod>2025-02-23</lastmod>
+    </url>
 </urlset>

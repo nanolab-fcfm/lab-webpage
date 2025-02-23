@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "temperature_sensor_footprints")(type "KiCad")(uri "${KIPRJMOD}/temperature_sensor_footprints.pretty")(options "")(descr ""))
+)
