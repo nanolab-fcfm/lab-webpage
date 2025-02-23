@@ -40,10 +40,10 @@ nav:
   - Publications: publications.md
   - Documentation:
       - Software:
-          - Laser Setup: docs/software/laser_setup_repo/README.md
+          - Laser Setup: software/laser_setup_repo/README.md
       - Hardware:
-          - Clicker: docs/hardware/clicker_repo/README.md
-          - Temperature Sensor v1: docs/hardware/temp_sensor_v1_repo/README.md
+          - Clicker: hardware/clicker_repo/README.md
+          - Temperature Sensor v1: hardware/temp_sensor_v1_repo/README.md
 
 markdown_extensions:
   - attr_list
