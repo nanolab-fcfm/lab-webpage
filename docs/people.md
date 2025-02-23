@@ -64,15 +64,9 @@ Welcome to our lab! We are a passionate team of researchers dedicated to **optoe
 
 ## 🎓 Alumni
 
-We are proud of our past members who have contributed significantly to our research. Many of our alumni have moved on to prestigious institutions and industry roles:
+- **Dr. Alfredo Rates** – 🔗 [LinkedIn](https://www.linkedin.com/in/alfredorates/)  
 
-- **Dr. Elena Fernández** – Now a professor at *Stanford University*, working on **quantum sensors**  
-- **Dr. Miguel Álvarez** – Joined *IBM Research*, focusing on **AI-driven materials discovery**  
-- **Dr. Laura Castro** – Now at *University of Cambridge*, researching **emerging semiconductors**  
-- **Eng. Roberto Nuñez** – Working at *NASA*, developing **optoelectronic sensors for space applications**  
-- **Dr. Andrea Morales** – Joined *Harvard*, specializing in **nanoelectronics**  
-
-Our alumni continue to excel in **academia, industry, and research institutes worldwide**! 🎓🚀  
+- **Dr. Jacqueline Labra Muñoz** - 🔗 [LinkedIn](https://www.linkedin.com/in/jacqueline-labra-munoz/)  
 
 ---
 
