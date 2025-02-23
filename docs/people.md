@@ -69,7 +69,7 @@ Benjamín specializes in **the electronic and optoelectronic properties of 2D ma
 ---
 
 ### **Joaquín López**  
-<img src="images/people/incogni.png" width="150px" style="border-radius: 100px;">  
+<img src="images/people/joaquin-lopez.png" width="150px" style="border-radius: 100px;">  
 
 🔬 **Expertise:** Computational Simulations, Data Analysis, and Signal Processing  
 🏛 **Affiliation:** [Your Institution/Lab Name]  
