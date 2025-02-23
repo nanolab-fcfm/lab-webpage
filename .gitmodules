@@ -1,0 +1,9 @@
+[submodule "docs/software/laser_setup_repo"]
+	path = docs/software/laser_setup_repo
+	url = git@github.com:nanolab-fcfm/laser_setup.git
+[submodule "docs/hardware/clicker_repo"]
+	path = docs/hardware/clicker_repo
+	url = git@github.com:nanolab-fcfm/clicker_instrument.git
+[submodule "docs/hardware/temp_sensor_v1_repo"]
+	path = docs/hardware/temp_sensor_v1_repo
+	url = git@github.com:nanolab-fcfm/temperature_sensor.git
