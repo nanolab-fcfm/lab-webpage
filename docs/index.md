@@ -1,17 +1,42 @@
-# Welcome to MkDocs
+# Welcome to NanoLab - FCFM 🔬✨
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to **NanoLab**, a cutting-edge research lab focused on **optoelectronics, nanomaterials, and advanced photodetector technologies**. Our team is dedicated to pushing the boundaries of **solid-state physics, quantum devices, and nanotechnology**.
 
-## Commands
+---
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+🚀 **Our Mission**  
+At NanoLab, we strive to develop **next-generation electronic devices**, exploring materials like **graphene, transition metal dichalcogenides (TMDs), and novel semiconductors**.
 
-## Project layout
+---
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 🏛 About Us
+- 📍 Based at the **[Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile](https://ingenieria.uchile.cl/)**.
+- 🔬 Specializing in **photodetectors, sensors, and nano-fabrication**.
+- 🤝 Collaborating with leading **academic and industrial partners**.
+
+---
+
+## 📰 Latest News
+[Read our latest blog post](blog/posts/slafes/SLAFES.md)
+
+➡️ **[See all news](blog/index.md)**  
+
+---
+
+## 🔬 Research Areas
+We explore multiple fields of **optoelectronics and nanomaterials**, including:
+- **Graphene-based devices**
+- **Quantum transport**
+- **Flexible electronics**
+- **Photodetector engineering**
+
+---
+
+## 📄 Publications
+📖 Our research is published in **top scientific journals**.  
+Check out our **[latest publications](publications.md)**.
+
+---
+
+## 👨‍🔬 Meet the Team
+👥 **[Our researchers and collaborators](people.md)** are at the forefront of **nanoscience innovation**.
