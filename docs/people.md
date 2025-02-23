@@ -62,22 +62,6 @@ Welcome to our lab! We are a passionate team of researchers dedicated to **optoe
 
 ---
 
-## 🌍 Collaborators
-
-We work closely with researchers, institutions, and industry partners around the world. Our current and past collaborators include:
-
-- **Dr. John Doe** – *XYZ University*, expert in **quantum optoelectronics**  
-- **Prof. Alice Smith** – *MIT*, researcher in **nanophotonics and spectroscopy**  
-- **Dr. Carlos Pérez** – *Intel Corporation*, specializing in **semiconductor fabrication**  
-- **Dr. Maria González** – *Max Planck Institute*, focused on **2D material transport**  
-- **Prof. Ricardo Martínez** – *ETH Zurich*, leader in **high-resolution imaging**  
-
-If you're interested in **collaborating with us**, please reach out! 🚀  
-
-📩 **Contact:** [lab-email@example.com](mailto:lab-email@example.com)
-
----
-
 ## 🎓 Alumni
 
 We are proud of our past members who have contributed significantly to our research. Many of our alumni have moved on to prestigious institutions and industry roles:
