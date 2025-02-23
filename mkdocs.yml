@@ -32,6 +32,7 @@ theme:
 
 plugins:
   - search
+  - blog
 
 nav:
   - Home: index.md
@@ -44,6 +45,8 @@ nav:
       - Hardware:
           - Clicker: hardware/clicker_repo/README.md
           - Temperature Sensor v1: hardware/temp_sensor_v1_repo/README.md
+  - News:
+    - blog/index.md
 
 markdown_extensions:
   - attr_list
