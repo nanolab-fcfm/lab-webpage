@@ -4,45 +4,58 @@ Welcome to our lab! We are a passionate team of researchers dedicated to **molec
 
 ---
 
-## 🧑‍🔬 Principal Investigator
+## 👩🏼‍🔬 Principal Investigator
 
 ### **Dr. Diana Dulić**  
 <img src="images/people/diana-dulic.png" width="150px" style="border-radius: 100px;">
 
-🏛 **Affiliation:** [Your Institution/Lab Name]  
+🏛 **Affiliation:** Universidad de Chile  
 📧 **Email:** [diana.dulic@gmail.com](mailto:diana.dulic@gmail.com)  
-🌐 **Website:** [ResearchGate/Google Scholar/University Profile]  
+🌐 **Google Scholar:** [Diana Dulić](https://scholar.google.com/citations?user=6PJLDzkAAAAJ&hl=en)  
 
 ---
 
-## 🔬 Researchers
+## 🔬 MSc. Students
 
-### **Tomás Rojas Castiglione**  
-<img src="images/people/tomas-rojas-castiglione.jpg" width="150px" style="border-radius: 100px;">  
+### **Guillermo Aburto Contreras**  
+<img src="images/people/guillermo-aburto.jpg" width="150px" style="border-radius: 100px;">  
 
-🏛 **Affiliation:** [Your Institution/Lab Name]  
-📧 **Email:** [tomas.rojas.c@ug.uchile.cl](mailto:tomas.rojas.c@ug.uchile.cl)  
-🌐 **Google Scholar:** [Tomás Rojas](https://scholar.google.com/citations?user=I7ZapO8AAAAJ&hl=en)  
+🏛 **Affiliation:** Universidad de Chile  
+📧 **Email:** [guillermo.aburto@ug.uchile.cl](mailto:guillermo.aburto@ug.uchile.cl)  
+🌐 **Google Scholar:** [Guillermo Aburto](#)  
 
 ---
 
 ### **Diego Sanz Biava**  
 <img src="images/people/diego-sanz.jpg" width="150px" style="border-radius: 100px;">  
 
-🏛 **Affiliation:** [Your Institution/Lab Name]  
+🏛 **Affiliation:** Universidad de Chile  
 📧 **Email:** [diego.sanz@ug.uchile.cl](mailto:diego.sanz@ug.uchile.cl)  
 🌐 **Google Scholar:** [Diego Sanz](#)  
 
 ---
 
-### **Guillermo Aburto Contreras**  
-<img src="images/people/guillermo-aburto.jpg" width="150px" style="border-radius: 100px;">  
+### **Joaquín López**  
+<img src="images/people/joaquin-lopez.png" width="150px" style="border-radius: 100px;">  
 
-🏛 **Affiliation:** [Your Institution/Lab Name]  
-📧 **Email:** [guillermo.aburto@ug.uchile.cl](mailto:guillermo.aburto@ug.uchile.cl)  
-🌐 **Google Scholar:** [Guillermo Aburto](#)  
+🏛 **Affiliation:** Universidad de Chile  
+📧 **Email:** [joaquin.mph7@gmail.com ](mailto:joaquin.mph7@gmail.com )  
+🌐 **Google Scholar:** [Joaquín López](#)  
 
 ---
+
+## ⚡ Lab's Engineer
+
+### **Tomás Rojas Castiglione**  
+<img src="images/people/tomas-rojas-castiglione.jpg" width="150px" style="border-radius: 100px;">  
+
+🏛 **Affiliation:** Universidad de Chile  
+📧 **Email:** [tomas.rojas.c@ug.uchile.cl](mailto:tomas.rojas.c@ug.uchile.cl)  
+🌐 **Google Scholar:** [Tomás Rojas](https://scholar.google.com/citations?user=I7ZapO8AAAAJ&hl=en)  
+
+---
+
+## 💻 Lab's Software Engineer
 
 ### **Benjamín Briceño Elchiver**  
 <img src="images/people/incogni.png" width="150px" style="border-radius: 100px;">  
@@ -53,20 +66,13 @@ Welcome to our lab! We are a passionate team of researchers dedicated to **molec
 
 ---
 
-### **Joaquín López**  
-<img src="images/people/joaquin-lopez.png" width="150px" style="border-radius: 100px;">  
-
-🏛 **Affiliation:** [Your Institution/Lab Name]  
-📧 **Email:** [joaquin.mph7@gmail.com ](mailto:joaquin.mph7@gmail.com )  
-🌐 **Google Scholar:** [Joaquín López](#)  
-
----
-
 ## 🎓 Alumni
 
 - **Dr. Alfredo Rates** – 🔗 [LinkedIn](https://www.linkedin.com/in/alfredorates/)  
 
 - **Dr. Jacqueline Labra Muñoz** - 🔗 [LinkedIn](https://www.linkedin.com/in/jacqueline-labra-munoz/)  
+
+- **Eng. Tomás Rojas Castiglione** - 🔗 [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-rojas-castiglione/)  
 
 ---
 
