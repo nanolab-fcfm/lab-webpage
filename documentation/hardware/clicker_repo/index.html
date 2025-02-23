@@ -8,7 +8,7 @@
       
       
       
-        <link rel="canonical" href="https://mydomain.org/mysite/software/laser_setup_repo/docs/Short%20protocol.html">
+        <link rel="canonical" href="https://mydomain.org/mysite/documentation/hardware/clicker_repo/index.html">
       
       
       
@@ -18,7 +18,7 @@
     
     
       
-        <title>Short protocol - NanoLab - FCFM</title>
+        <title>ESP8266 Temperature Controller - NanoLab - FCFM</title>
       
     
     
@@ -72,7 +72,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#short-protocol" class="md-skip">
+        <a href="#esp8266-temperature-controller" class="md-skip">
           Skip to content
         </a>
       
@@ -107,7 +107,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Short protocol
+              ESP8266 Temperature Controller
             
           </span>
         </div>
@@ -272,7 +272,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../index.html" class="md-tabs__link">
+        <a href="../../../software/laser_setup_repo/README.md" class="md-tabs__link">
           
   
   Documentation
@@ -515,7 +515,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../index.html" class="md-nav__link">
+      <a href="../../../software/laser_setup_repo/README.md" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -586,7 +586,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../hardware/clicker_repo/index.html" class="md-nav__link">
+      <a href="../../../hardware/clicker_repo/README.md" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -608,7 +608,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../hardware/temp_sensor_v1_repo/index.html" class="md-nav__link">
+      <a href="../../../hardware/temp_sensor_v1_repo/README.md" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -810,9 +810,84 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#for-each-wavelength" class="md-nav__link">
+  <a href="#features" class="md-nav__link">
     <span class="md-ellipsis">
-      For each wavelength:
+      📦 Features
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#requirements" class="md-nav__link">
+    <span class="md-ellipsis">
+      🔧 Requirements
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#commands-usage" class="md-nav__link">
+    <span class="md-ellipsis">
+      🚀 Commands &amp; Usage
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🚀 Commands & Usage">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#temperature-commands" class="md-nav__link">
+    <span class="md-ellipsis">
+      Temperature Commands
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#manual-button-presses" class="md-nav__link">
+    <span class="md-ellipsis">
+      Manual Button Presses
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#troubleshooting" class="md-nav__link">
+    <span class="md-ellipsis">
+      🔧 Troubleshooting
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🔧 Troubleshooting">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#permission-denied-linux" class="md-nav__link">
+    <span class="md-ellipsis">
+      Permission Denied (Linux)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#example-usage" class="md-nav__link">
+    <span class="md-ellipsis">
+      📌 Example Usage
     </span>
   </a>
   
@@ -834,30 +909,99 @@
 
 
 
-<h1 id="short-protocol">Short protocol</h1>
-<h2 id="for-each-wavelength">For each wavelength:</h2>
-<ol>
-<li>IVg Off all the chip </li>
-<li>Calibration, find led voltage for 2.5, 5.0, 7.5 and 10.0 $\mu W$</li>
-<li>IVg On after 1 min On, 7.5 $\mu W$</li>
-<li>10 minutes wait since LED Off</li>
-<li>IVg Off, find DP </li>
-<li>It + DP, Sequence Power<pre><code>for gate in [4, 15]:
-    for power in Powers:
-        It DP + gate
+<h1 id="esp8266-temperature-controller">ESP8266 Temperature Controller</h1>
+<p>This project allows controlling an ESP8266-based device through serial communication. The system simulates button presses to adjust temperature settings on an external device.</p>
+<h2 id="features">📦 Features</h2>
+<ul>
+<li><strong>Set Current Temperature</strong> (<code>SCTxxx</code>)</li>
+<li><strong>Set Target Temperature</strong> (<code>STTxxx</code>)</li>
+<li><strong>Start Temperature Adjustment</strong> (<code>GO</code>)</li>
+<li><strong>Query Current Temperature</strong> (<code>RCT</code>)</li>
+<li><strong>Query Target Temperature</strong> (<code>RTT</code>)</li>
+<li><strong>Manual Button Press Commands</strong> (<code>A</code>, <code>AA</code>, <code>B</code>, <code>BB</code>, <code>AB</code>)</li>
+</ul>
+<h2 id="requirements">🔧 Requirements</h2>
+<ul>
+<li><strong>ESP8266</strong> microcontroller</li>
+<li><strong>USB-to-Serial Converter</strong> (e.g., FTDI, CH340G)</li>
+<li><strong>Serial Terminal Software</strong> (Minicom, Screen, Picocom, or Python <code>pyserial</code>)</li>
+</ul>
+<h2 id="commands-usage">🚀 Commands &amp; Usage</h2>
+<h3 id="temperature-commands"><strong>Temperature Commands</strong></h3>
+<table>
+<thead>
+<tr>
+<th>Command</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>SCTxxx</code></td>
+<td>Set <strong>current</strong> temperature to <code>xxx</code> °C. Example: <code>SCT30</code> (sets to 30°C)</td>
+</tr>
+<tr>
+<td><code>STTxxx</code></td>
+<td>Set <strong>target</strong> temperature to <code>xxx</code> °C. Example: <code>STT100</code> (target = 100°C)</td>
+</tr>
+<tr>
+<td><code>RCT</code></td>
+<td>Request <strong>current</strong> temperature</td>
+</tr>
+<tr>
+<td><code>RTT</code></td>
+<td>Request <strong>target</strong> temperature</td>
+</tr>
+<tr>
+<td><code>GO</code></td>
+<td>Start adjusting temperature from <code>CT</code> to <code>TT</code></td>
+</tr>
+</tbody>
+</table>
+<h3 id="manual-button-presses"><strong>Manual Button Presses</strong></h3>
+<table>
+<thead>
+<tr>
+<th>Command</th>
+<th>Action</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>A</code></td>
+<td>Short press button A (100 ms)</td>
+</tr>
+<tr>
+<td><code>AA</code></td>
+<td>Long press button A (500 ms)</td>
+</tr>
+<tr>
+<td><code>B</code></td>
+<td>Short press button B (100 ms)</td>
+</tr>
+<tr>
+<td><code>BB</code></td>
+<td>Long press button B (500 ms)</td>
+</tr>
+<tr>
+<td><code>AB</code></td>
+<td>Short press both A and B simultaneously</td>
+</tr>
+</tbody>
+</table>
+<h2 id="troubleshooting">🔧 Troubleshooting</h2>
+<h3 id="permission-denied-linux"><strong>Permission Denied (Linux)</strong></h3>
+<p>If you get <code>permission denied</code> on <code>/dev/ttyUSB0</code>, run:</p>
+<pre><code class="language-bash">sudo usermod -aG dialout $USER
 </code></pre>
-<ol>
-<li>Vg Off, find DP</li>
-<li>
-<p>It - DP, Sequence gate -&gt; Sequence Power</p>
-<p>for gate in [-4, -15]:
-    for power in Powers:
-        It DP + gate
-8. IVg Off all the chip  </p>
-</li>
-</ol>
-</li>
-</ol>
+<p>Then <strong>restart the terminal</strong>.</p>
+<h2 id="example-usage">📌 Example Usage</h2>
+<pre><code>SCT25   # Set current temperature to 25°C
+STT80   # Set target temperature to 80°C
+RCT     # Get current temperature
+RTT     # Get target temperature
+GO      # Start automatic temperature adjustment
+</code></pre>
 
 
 
