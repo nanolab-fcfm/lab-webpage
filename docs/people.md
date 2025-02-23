@@ -1,6 +1,6 @@
 # 🏛 Our Team
 
-Welcome to our lab! We are a passionate team of researchers dedicated to **optoelectronics, nanomaterials, and advanced photodetector technologies**. Our mission is to push the boundaries of science and develop cutting-edge solutions for next-generation devices.
+Welcome to our lab! We are a passionate team of researchers dedicated to **molecular electronics, optoelectronics and nanomaterials**. Our mission is to push the boundaries of science and develop cutting-edge solutions for next-generation devices.
 
 ---
 
@@ -10,7 +10,7 @@ Welcome to our lab! We are a passionate team of researchers dedicated to **optoe
 <img src="images/people/diana-dulic.png" width="150px" style="border-radius: 100px;">
 
 🏛 **Affiliation:** [Your Institution/Lab Name]  
-📧 **Email:** [diana.dulic@gmail.com ](mailto:diana.dulic@gmail.com )  
+📧 **Email:** [diana.dulic@gmail.com](mailto:diana.dulic@gmail.com)  
 🌐 **Website:** [ResearchGate/Google Scholar/University Profile]  
 
 ---
@@ -73,5 +73,5 @@ Welcome to our lab! We are a passionate team of researchers dedicated to **optoe
 ## 🎯 Want to Join Us?  
 Our lab welcomes motivated students and researchers! If you're interested in **optoelectronics, nanomaterials, or device engineering**, feel free to **reach out**. 🚀  
 
-📩 **Contact:** [lab-email@example.com](mailto:lab-email@example.com)  
-📍 **Location:** [Your University/Lab Address]  
+📩 **Contact:** [diana.dulic@gmail.com](mailto:diana.dulic@gmail.com)
+📍 **Location:** [Avenida Blanco Encalada 2008, Santiago, Chile]  
