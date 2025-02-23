@@ -36,18 +36,18 @@ plugins:
 
 nav:
   - Home: index.md
-  - About: about/about.md
-  - People: people.md
-  - Publications: publications.md
-  - Documentation:
-      - Software:
-          - Laser Setup: software/laser_setup_repo/README.md
-      - Hardware:
-          - Clicker: hardware/clicker_repo/README.md
-          - Temperature Sensor v1: hardware/temp_sensor_v1_repo/README.md
   - News:
     - blog/index.md
-
+  - Publications: publications.md
+  - People: people.md
+  - Documentation:
+    - documentation/index.md
+    - Software:
+        - Laser Setup: documentation/software/laser_setup_repo/README.md
+    - Hardware:
+        - Clicker: documentation/hardware/clicker_repo/README.md
+        - Temperature Sensor v1: documentation/hardware/temp_sensor_v1_repo/README.md
+ 
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
