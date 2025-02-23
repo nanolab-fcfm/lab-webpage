@@ -14,8 +14,6 @@ Welcome to our lab! We are a passionate team of researchers dedicated to **optoe
 📧 **Email:** [diana.dulic@example.com](mailto:diana.dulic@example.com)  
 🌐 **Website:** [ResearchGate/Google Scholar/University Profile]  
 
-Dr. Dulić leads the team in exploring **novel 2D materials, quantum transport, and photodetection technologies**. With years of experience in **graphene-based electronics and nanophotonics**, she guides research projects that push the limits of **sensor miniaturization and performance**.
-
 ---
 
 ## 🔬 Researchers
@@ -28,8 +26,6 @@ Dr. Dulić leads the team in exploring **novel 2D materials, quantum transport, 
 📧 **Email:** [tomas.rojas.c@ug.uchile.cl](mailto:tomas.rojas.c@ug.uchile.cl)  
 🌐 **Google Scholar:** [Tomás Rojas](https://scholar.google.com/citations?user=I7ZapO8AAAAJ&hl=en)  
 
-Tomás specializes in **high-sensitivity graphene-based photodetectors**. His work focuses on **passivation techniques using aluminum oxide** and enhancing **device stability for real-world applications**.
-
 ---
 
 ### **Diego Sanz Biava**  
@@ -39,8 +35,6 @@ Tomás specializes in **high-sensitivity graphene-based photodetectors**. His wo
 🏛 **Affiliation:** [Your Institution/Lab Name]  
 📧 **Email:** [diego.sanz@example.com](mailto:diego.sanz@example.com)  
 🌐 **Google Scholar:** [Diego Sanz](#)  
-
-Diego’s research involves **advanced spectroscopy techniques** to characterize **photoresponse in low-dimensional materials**. His contributions include **developing novel sensor architectures for enhanced infrared detection**.
 
 ---
 
@@ -52,8 +46,6 @@ Diego’s research involves **advanced spectroscopy techniques** to characterize
 📧 **Email:** [guillermo.aburto@example.com](mailto:guillermo.aburto@example.com)  
 🌐 **Google Scholar:** [Guillermo Aburto](#)  
 
-Guillermo is focused on **fabrication techniques for ultra-thin electronic devices**. His expertise in **cleanroom processing and semiconductor characterization** is key to improving **material quality and device reliability**.
-
 ---
 
 ### **Benjamín Briceño Elchiver**  
@@ -64,8 +56,6 @@ Guillermo is focused on **fabrication techniques for ultra-thin electronic devic
 📧 **Email:** [benjamin.briceño@example.com](mailto:benjamin.briceño@example.com)  
 🌐 **Google Scholar:** [Benjamín Briceño](#)  
 
-Benjamín specializes in **the electronic and optoelectronic properties of 2D materials**, with a focus on **graphene-based devices and quantum transport phenomena**. His work contributes to **understanding charge carrier dynamics in next-generation nanodevices**.
-
 ---
 
 ### **Joaquín López**  
@@ -75,8 +65,6 @@ Benjamín specializes in **the electronic and optoelectronic properties of 2D ma
 🏛 **Affiliation:** [Your Institution/Lab Name]  
 📧 **Email:** [joaquin.lopez@example.com](mailto:joaquin.lopez@example.com)  
 🌐 **Google Scholar:** [Joaquín López](#)  
-
-Joaquín brings expertise in **computational modeling** and **statistical analysis** for predicting device performance. His work enhances **understanding of charge transport mechanisms in emerging materials**.
 
 ---
 
