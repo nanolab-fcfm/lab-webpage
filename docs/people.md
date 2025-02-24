@@ -58,7 +58,7 @@ Welcome to our lab! We are a passionate team of researchers dedicated to **molec
 ## 💻 Lab's Software Engineer
 
 ### **Benjamín Briceño Elchiver**  
-<img src="images/people/incogni.png" width="150px" style="border-radius: 100px;">  
+<img src="images/people/benjamin-briceno.jpg" width="150px" style="border-radius: 100px;">  
 
 🏛 **Affiliation:** Universität Augsburg, Institute for Physics, Germany  
 📧 **Email:** [benjaminbriceno@ug.uchile.cl](mailto:benjaminbriceno@ug.uchile.cl)  
