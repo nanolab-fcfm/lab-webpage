@@ -5,7 +5,7 @@ Welcome to **NanoLab**, a cutting-edge research lab focused on **optoelectronics
 ---
 
 🚀 **Our Mission**  
-At NanoLab, we strive to develop **next-generation electronic devices**, exploring materials like **graphene, transition metal dichalcogenides (TMDs), and novel semiconductors**.
+At NanoLab, we strive to develop **next-generation electronic devices**, exploring materials like **graphene**.
 
 ---
 
