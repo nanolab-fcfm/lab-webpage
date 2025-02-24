@@ -79,5 +79,5 @@ Welcome to our lab! We are a passionate team of researchers dedicated to **molec
 ## 🎯 Want to Join Us?  
 Our lab welcomes motivated students and researchers! If you're interested in **optoelectronics, nanomaterials, or device engineering**, feel free to **reach out**. 🚀  
 
-📩 **Contact:** [diana.dulic@gmail.com](mailto:diana.dulic@gmail.com)
+📩 **Contact:** [diana.dulic@gmail.com](mailto:diana.dulic@gmail.com)   
 📍 **Location:** Avenida Blanco Encalada 2008, Santiago, Chile
