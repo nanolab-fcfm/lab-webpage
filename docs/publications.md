@@ -18,7 +18,7 @@ Welcome to the compilation of **NanoLab's** research!
    *DOI:* [10.1021/acs.jpcc.9b10166](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.9b10166)  
 3. **Trapping and electrical characterization of single core/shell iron-based nanoparticles in self-aligned nanogaps**  
    *Authors:* Jacqueline Labra-Muñoz, Zorica Konstantinović, Lluis Balcells, Alberto Pomar, Herre SJ Van der Zant, Diana Dulić. 
-   *Journal:* Applied Physics Letters
+   *Journal:* Applied Physics Letters  
    *Publication Date:* 2019  
    *DOI:* [10.1063/1.5094352](https://pubs.aip.org/aip/apl/article-abstract/115/6/063104/37952/Trapping-and-electrical-characterization-of-single?redirectedFrom=fulltext)  
 
