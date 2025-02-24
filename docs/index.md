@@ -25,10 +25,9 @@ At NanoLab, we strive to develop **next-generation electronic devices**, explori
 
 ## 🔬 Research Areas
 We explore multiple fields of **optoelectronics and nanomaterials**, including:
+- **Molecular electronics**
 - **Graphene-based devices**
-- **Quantum transport**
-- **Flexible electronics**
-- **Photodetector engineering**
+- **Photodetectors**
 
 ---
 
